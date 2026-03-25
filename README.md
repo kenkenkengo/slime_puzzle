@@ -6,6 +6,8 @@
 ![Pygame](https://img.shields.io/badge/Pygame--CE-2.5+-green)
 ![pymunk](https://img.shields.io/badge/pymunk-6.6+-orange)
 
+<video src="https://github.com/kenkenkengo/slime_puzzle/raw/main/assets/demo.mp4" controls width="600"></video>
+
 ## 遊び方
 
 | 操作 | 説明 |
